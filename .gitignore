@@ -1,0 +1,9 @@
+env
+__pycache__
+companies.json
+emails_sent_to.json
+output
+build
+dist
+main.spec
+myenv
