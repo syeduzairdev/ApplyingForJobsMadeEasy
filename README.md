@@ -60,7 +60,7 @@ Make sure your virtual environment is activated
 
 <br />
 
-Author: [Usama Kashif](https://uzairhassan.com/) <br />
+Author: [Syed Uzair Hassan](https://uzairhassan.com/) <br />
 
 ### Don't forget to [star](https://github.com/syeduzairdev/ApplyingForJobsMadeEasy) the repository if you liked it. <br />
 
